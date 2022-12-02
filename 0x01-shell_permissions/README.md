@@ -1,1 +1,1 @@
-write a script that changes the group owner to school for the file hello
+write a script that sets the permission to the file hello as foolows:
