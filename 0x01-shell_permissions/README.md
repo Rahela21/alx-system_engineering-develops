@@ -1,1 +1,1 @@
-write a script that prints mde effective username of the current user.
+‘write a script that printts mde effective username of the current user.’
