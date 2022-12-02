@@ -1,1 +1,1 @@
-create a script that swithes the current user to the user betty
+write a script that prints mde effective username of the current user.
