@@ -1,1 +1,1 @@
-write a script that sets the permission to the file hello as foolows:
+writ a script that printsmde effective username of the current user.
