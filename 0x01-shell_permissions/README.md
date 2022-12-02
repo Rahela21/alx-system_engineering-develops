@@ -1,1 +1,1 @@
-write a script that prints all the groups the current user is part of
+write a script that creates an empty file called hello
