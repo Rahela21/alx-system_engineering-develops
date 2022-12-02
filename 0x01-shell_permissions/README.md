@@ -1,1 +1,1 @@
-write a script that creates an empty file called hello
+write a script that adds execution permission to the owner, the group owner and the other users, to the file hello
