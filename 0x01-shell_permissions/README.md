@@ -1,1 +1,1 @@
-write a script that prints mde effective username of the current user.
+write a script that changes the owner of _hello to vincent and staff respectively
