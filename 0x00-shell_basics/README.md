@@ -1,1 +1,1 @@
-shell basic
+seventeenth readme
