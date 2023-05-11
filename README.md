@@ -1,2 +1,1 @@
-shell basics
-my first commit
+My first readme
